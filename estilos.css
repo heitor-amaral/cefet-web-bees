@@ -83,5 +83,5 @@ img:not([alt]) {
 }
 
 .cancela-flutuacao {
-    clear: right;
+    clear: both;
 }
